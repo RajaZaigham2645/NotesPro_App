@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512332437474",
+    "project_id": "zaigham-3653c",
+    "storage_bucket": "zaigham-3653c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512332437474:android:d6c099e9f06f97308bcbbb",
+        "android_client_info": {
+          "package_name": "com.example.week1task1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp29cxbVhNsCh7jTT0S6vYoTO1e0AHsU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

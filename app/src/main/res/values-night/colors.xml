@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- High-Contrast Dark Mode Palette -->
+    <color name="bg_color">#020617</color> <!-- Deep Navy Background -->
+    <color name="surface_color">#0F172A</color> <!-- Slate Surface -->
+    <color name="card_bg">#1E293B</color> <!-- Lighter Slate for cards to stand out -->
+    
+    <color name="primary_color">#A5B4FC</color> <!-- Indigo 300 (Vibrant on dark) -->
+    <color name="primary_dark">#4F46E5</color>
+    <color name="accent_color">#FB7185</color> <!-- Rose 400 -->
+    
+    <color name="text_main">#F8FAFC</color> <!-- Slate 50 (Near white) -->
+    <color name="text_muted">#94A3B8</color> <!-- Slate 400 -->
+    <color name="text_light">#64748B</color> 
+    
+    <color name="footer_bg">#020617</color>
+    <color name="footer_text">#F8FAFC</color>
+    
+    <color name="border_color">#334155</color>
+    <color name="input_bg">#1E293B</color> <!-- Distinct input background -->
+
+    <!-- Note Tag Colors (Lighter versions for Dark Mode) -->
+    <color name="tag_blue">#60A5FA</color>
+    <color name="tag_green">#34D399</color>
+    <color name="tag_yellow">#FBBF24</color>
+    <color name="tag_red">#F87171</color>
+    <color name="tag_purple">#A78BFA</color>
+    <color name="tag_gray">#94A3B8</color>
+</resources>
